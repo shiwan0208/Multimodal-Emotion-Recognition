@@ -1,0 +1,8 @@
+numpy>=1.21.0
+opencv-python>=4.5.0
+mediapipe>=0.10.0
+deepface>=0.0.79
+librosa>=0.10.0
+sounddevice>=0.4.6
+tf-keras>=2.15.0
+tensorflow>=2.15.0
